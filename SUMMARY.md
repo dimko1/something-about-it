@@ -6,5 +6,6 @@
    * [Глава 3. О том, когда командная работа не работает](glava_3_o_tom,_kogda_komandnaya_rabota_ne_rabotaet.md)
    * [Глава 4. Об интервью](glava_4_ob_intervyu.md)
    * [Глава 5. О ПМах](glava_5_o_pmah.md)
+   * Глава 6. О Коле
 * [Draft thoughts](draft_thoughts.md)
 
