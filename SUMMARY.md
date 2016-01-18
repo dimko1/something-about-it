@@ -7,5 +7,6 @@
    * [Глава 4. Об интервью](glava_4_ob_intervyu.md)
    * [Глава 5. О ПМах](glava_5_o_pmah.md)
    * [Глава 6. О Коле](glava_6_o_kole.md)
+   * Глава 7. О Конференциях
 * [Draft thoughts](draft_thoughts.md)
 
