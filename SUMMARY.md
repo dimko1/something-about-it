@@ -9,5 +9,6 @@
    * [Глава 6. О Коле](glava_6_o_kole.md)
    * [Глава 7. О Конференциях](glava_7_o_konferentsiyah.md)
    * [Глава X. О безысходности в аутсорсе](glava_x_o_bezishodnosti_v_autsorse.md)
+   * Глава 8. О рекрутерах
 * [Draft thoughts](draft_thoughts.md)
 
