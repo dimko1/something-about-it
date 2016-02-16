@@ -11,5 +11,6 @@
    * [Глава X. О безысходности в аутсорсе](glava_x_o_bezishodnosti_v_autsorse.md)
    * [Глава 8. О рекрутерах](glava_8_o_rekruterah.md)
    * [Глава 9. О Тыжпрограммист](glava_9_o_tizhprogrammist.md)
+   * Глава 10. О Фрилансе
 * [Draft thoughts](draft_thoughts.md)
 
