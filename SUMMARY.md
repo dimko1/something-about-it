@@ -12,6 +12,6 @@
    * [Глава 8. О рекрутерах](glava_8_o_rekruterah.md)
    * [Глава 9. О Тыжпрограммист](glava_9_o_tizhprogrammist.md)
    * [Глава 10. О Фрилансе](glava_10_o_frilanse.md)
-   * Глава 11. О первом компьютере
+   * [Глава 11. О первом компьютере](glava_11_o_pervom_kompyutere.md)
 * [Draft thoughts](draft_thoughts.md)
 
