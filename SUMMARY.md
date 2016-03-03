@@ -14,6 +14,6 @@
    * [Глава 10. О Фрилансе](glava_10_o_frilanse.md)
    * [Глава 11. О первом компьютере](glava_11_o_pervom_kompyutere.md)
    * [Глава 12. О Толике](glava_12_o_tolike.md)
-   * Глава 13. О работе из дому
+   * [Глава 13. О работе из дому](glava_13_o_rabote_iz_domu.md)
 * [Draft thoughts](draft_thoughts.md)
 
