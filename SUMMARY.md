@@ -15,5 +15,6 @@
    * [Глава 11. О первом компьютере](glava_11_o_pervom_kompyutere.md)
    * [Глава 12. О Толике](glava_12_o_tolike.md)
    * [Глава 13. О работе из дому](glava_13_o_rabote_iz_domu.md)
+   * Глава 14. О релизе
 * [Draft thoughts](draft_thoughts.md)
 
