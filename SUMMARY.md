@@ -17,6 +17,6 @@
    * [Глава 13. О работе из дому](glava_13_o_rabote_iz_domu.md)
    * [Глава 14. О релизе](glava_14_o_relize.md)
    * [Глава 15. О пенсии](glava_15_o_pensii.md)
-   * Глава 16. О Сексизме
+   * [Глава 16. О Сексизме](glava_16_o_seksizme.md)
 * [Draft thoughts](draft_thoughts.md)
 
