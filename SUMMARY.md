@@ -18,5 +18,7 @@
    * [Глава 14. О релизе](glava_14_o_relize.md)
    * [Глава 15. О пенсии](glava_15_o_pensii.md)
    * [Глава 16. О Сексизме](glava_16_o_seksizme.md)
+   * [Глава 17. Об идеальном коде](glava_17_ob_idealnom_kode.md)
+   * Глава 18. Об образовании
 * [Draft thoughts](draft_thoughts.md)
 
