@@ -20,5 +20,6 @@
    * [Глава 16. О Сексизме](glava_16_o_seksizme.md)
    * [Глава 17. Об идеальном коде](glava_17_ob_idealnom_kode.md)
    * [Глава 18. Об образовании](glava_18_ob_obrazovanii.md)
+   * Глава 19. О девушках - программистах
 * [Draft thoughts](draft_thoughts.md)
 
