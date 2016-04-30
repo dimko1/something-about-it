@@ -21,6 +21,6 @@
    * [Глава 17. Об идеальном коде](glava_17_ob_idealnom_kode.md)
    * [Глава 18. Об образовании](glava_18_ob_obrazovanii.md)
    * [Глава 19. О девушках - программистах](glava_19_o_devushkah_-_programmistah.md)
-   * Глава 20. О работе с жопами
+   * [Глава 20. О работе с жопами](glava_20_o_rabote_s_zhopami.md)
 * [Draft thoughts](draft_thoughts.md)
 
