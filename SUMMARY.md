@@ -22,6 +22,6 @@
    * [Глава 18. Об образовании](glava_18_ob_obrazovanii.md)
    * [Глава 19. О девушках - программистах](glava_19_o_devushkah_-_programmistah.md)
    * [Глава 20. О работе с жопами](glava_20_o_rabote_s_zhopami.md)
-   * Глава 21. О страхе
+   * [Глава 21. О страхе](glava_21_o_strahe.md)
 * [Draft thoughts](draft_thoughts.md)
 
