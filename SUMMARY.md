@@ -23,6 +23,6 @@
    * [Глава 19. О девушках - программистах](glava_19_o_devushkah_-_programmistah.md)
    * [Глава 20. О работе с жопами](glava_20_o_rabote_s_zhopami.md)
    * [Глава 21. О страхе](glava_21_o_strahe.md)
-   * Глава 22. О своей компании
+   * [Глава 22. О своей компании](glava_22_o_svoei_kompanii.md)
 * [Draft thoughts](draft_thoughts.md)
 
