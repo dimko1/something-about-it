@@ -24,6 +24,6 @@
    * [Глава 20. О работе с жопами](glava_20_o_rabote_s_zhopami.md)
    * [Глава 21. О страхе](glava_21_o_strahe.md)
    * [Глава 22. О своей компании](glava_22_o_svoei_kompanii.md)
-   * Глава 23. Об IT не в IT
+   * [Глава 23. Об IT не в IT](glava_23_ob_it_ne_v_it.md)
 * [Draft thoughts](draft_thoughts.md)
 
