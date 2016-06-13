@@ -26,6 +26,6 @@
    * [Глава 22. О своей компании](glava_22_o_svoei_kompanii.md)
    * [Глава 23. Об IT не в IT](glava_23_ob_it_ne_v_it.md)
    * [Глава 24. О том что Agile всех спасет](glava_24_o_tom_chto_agile_vseh_spaset.md)
-   * Глава 25. О корпоративах
+   * [Глава 25. О корпоративах](glava_25_o_korporativah.md)
 * [Draft thoughts](draft_thoughts.md)
 
