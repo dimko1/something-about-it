@@ -27,6 +27,6 @@
    * [Глава 23. Об IT не в IT](glava_23_ob_it_ne_v_it.md)
    * [Глава 24. О том что Agile всех спасет](glava_24_o_tom_chto_agile_vseh_spaset.md)
    * [Глава 25. О корпоративах](glava_25_o_korporativah.md)
-   * Глава 26. О командировках и поездах
+   * [Глава 26. О командировках и поездах](glava_26_o_komandirovkah_i_poezdah.md)
 * [Draft thoughts](draft_thoughts.md)
 
