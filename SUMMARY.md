@@ -28,6 +28,6 @@
    * [Глава 24. О том что Agile всех спасет](glava_24_o_tom_chto_agile_vseh_spaset.md)
    * [Глава 25. О корпоративах](glava_25_o_korporativah.md)
    * [Глава 26. О командировках и поездах](glava_26_o_komandirovkah_i_poezdah.md)
-   * Глава 27. О запретах
+   * [Глава 27. О запретах](glava_27_o_zapretah.md)
 * [Draft thoughts](draft_thoughts.md)
 
