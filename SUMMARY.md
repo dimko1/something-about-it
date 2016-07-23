@@ -29,5 +29,6 @@
    * [Глава 25. О корпоративах](glava_25_o_korporativah.md)
    * [Глава 26. О командировках и поездах](glava_26_o_komandirovkah_i_poezdah.md)
    * [Глава 27. О запретах](glava_27_o_zapretah.md)
+   * Глава 28. О тайной жизни проектов
 * [Draft thoughts](draft_thoughts.md)
 
