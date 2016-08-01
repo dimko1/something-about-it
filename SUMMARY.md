@@ -30,6 +30,6 @@
    * [Глава 26. О командировках и поездах](glava_26_o_komandirovkah_i_poezdah.md)
    * [Глава 27. О запретах](glava_27_o_zapretah.md)
    * [Глава 28. О тайной жизни проектов](glava_28_o_tainoi_zhizni_proektov.md)
-   * Глава 29. О Джаваскриптизерах
+   * [Глава 29. О Джаваскриптизерах](glava_29_o_dzhavaskriptizerah.md)
 * [Draft thoughts](draft_thoughts.md)
 
