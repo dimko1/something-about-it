@@ -31,5 +31,6 @@
    * [Глава 27. О запретах](glava_27_o_zapretah.md)
    * [Глава 28. О тайной жизни проектов](glava_28_o_tainoi_zhizni_proektov.md)
    * [Глава 29. О Джаваскриптизерах](glava_29_o_dzhavaskriptizerah.md)
+   * Глава 30. О написании книги
 * [Draft thoughts](draft_thoughts.md)
 
